@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "description": "PP",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "PP",
+  "dependencies": {
+    "next": "latest",
+    "next-auth": "^4.19.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17",
+    "@types/react": "^18.0.15",
+    "typescript": "^4.9.5"
+  }
+}

@@ -1,17 +1,16 @@
 ## Getting Started
 
-### 1. Clone the repository and install dependencies
+### 1. Install dependencies
 
 ```
-git clone https://github.com/nextauthjs/next-auth-example.git
-
 npm install
 ```
+
 ### 2. Configure your local environment
-```
-Create a file .env.local
+
 ```
 Add env details
+```
 
 ### 3. Start the application
 
